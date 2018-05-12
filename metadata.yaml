@@ -1,0 +1,33 @@
+_repo: La-mer_23279
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Michelet, Jules
+    alias: Michelet, J.
+    birthdate: 1798
+    deathdate: 1874
+    gutenberg_agent_id: '8214'
+    url: http://www.gutenberg.org/2009/agents/8214
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Michelet
+    - http://en.wikipedia.org/wiki/Jules_Michelet
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2007-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23279'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ocean'
+- !lcsh 'Natural history'
+- !lcc 'GC'
+- !lcc 'QH'
+title: La mer
+url: http://www.gutenberg.org/ebooks/23279
